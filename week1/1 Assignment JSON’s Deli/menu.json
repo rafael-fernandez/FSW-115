@@ -1,0 +1,351 @@
+{
+   "Appetizer": [
+    {
+        "Name": "All Natural Caramel Corn",
+        "Ingridients": [
+            "popcorn",
+            "brown rice syrup",
+            "maple syrup",
+            "coconut sugar",
+            "dairy free butter",
+            "teaspoon salt",
+            "vanilla"
+        ],
+        "description": "Caramel popcorn"
+    },
+    {
+        "Name": "Mini Italian Subs",
+        "Ingridients": [
+            "Black Forest Ham",
+            "Genoa Salami",
+            "Provolone Cheese",
+            "Mayonnaise",
+            "Mild or hot peppedew peppers",
+            " shredded lettuce",
+            "sliced onions"
+        ],
+        "description": "Mini Italian sandwhich subs"
+    },
+
+    {
+       "Name": "Shrimp Appetizers - Easy Party Appetizers",
+            "Ingridients": [
+            "avocado",
+            "lemon juice",
+            "onion",
+            "salt",
+            "cooked shrimp",
+            " ground black pepper",
+            "smoked salmon",
+            "cucumber"
+            ],
+        "description": "Mini shrimp sandwhiches"
+    },
+
+
+        {
+            "Name": "Puff Pastry Crescent Appetizers",
+            "Ingridients": [
+                "flour",
+                "butter",
+                "chilled water",
+                "salt",
+                "brie",
+                "speck",
+                "mozarella cheese",
+                "salami",
+                "pears",
+                "egg yolk"
+            ],
+            "description": "Delicious pastry filled with fruit taste"
+        },
+
+    {
+        
+            "Name": "Mini Italian Subs",
+            "Ingridients": [
+                "Black Forest Ham",
+                "Genoa Salami",
+                "Provolone Cheese",
+                "Mayonnaise",
+                "Mild or hot peppedew peppers",
+                " shredded lettuce",
+                "sliced onions"
+            ],
+            "description": "Mini Italian sandwhich subs"
+        }
+],
+
+
+
+"Sandwhich(Cold)": [
+    {
+        "Name": "Cranberry-Walnut Chicken Salad Sandwiches",
+        "Ingridients": [
+            "mayonnaise",
+            "honey Dijon mustard",
+            "cubed rotisserie chicken",
+            "shredded Swiss cheese",
+            "chopped celery",
+            "dried cranberries",
+            "chopped walnuts",
+            "dried parsley flakes",
+            "pumpernickel bread"
+        ],
+        "description": "A chicken salad sandwich with a cranberry-walnut taste"
+    },
+    {
+        "Name": "Cobb Salad Sub",
+        "Ingridients": [
+            " unsliced Italian bread",
+            "baby spinach",
+            "sliced deli ham",
+            "chopped eggs",
+            "crubmled bacon strips",
+            "Gorgonzola cheese",
+            "chopped tomatoes"
+        ],
+        "description": " Cobb salad into a sandwich with your choice of vinaigrette or dressing "
+    },
+    {
+        "Name": "California Roll Wraps",
+        "Ingridients": [
+            "wasabi mayonnaise",
+            "wheat tortillas",
+            "crab meat",
+            "avocado",
+            "jicama",
+            " red pepper",
+            "cucumber",
+            "bean sprout"
+        ],
+        "description": "A sushi flavored sandwhich wrap"
+    },
+
+    {
+        "Name": "Classic Cold-Cut Sub Sandwiches",
+        "Ingridients": [
+            "sub-marine buns",
+            "mayonnaise",
+            "provolone sliced cheese",
+            "toamtoe",
+            "bell pepper",
+            " red pepper",
+            "vegetable oil",
+            "red wine vinegar",
+            "oregano"
+        ],
+        "description": "known as classic american hoagies"
+    },
+
+    {
+        "Name": "Smoked Salmon Croissant Sandwiches",
+        "Ingridients": [
+            "mayonnaise",
+            "smoked salmon",
+            "butter",
+            "cream-cheese",
+            "basil",
+            " croissants"
+        ],
+        "description": "smoked salmon in inside a choice of your bread, can be served both hot and cold"
+    }
+
+],
+
+
+
+
+"Sandwhich(HOT)": [
+     {
+        "Name": "Apple, Cheddar & Turkey Panini",
+        "Ingridients": [
+                "whole grain bread",
+                "Land O Lakes® Butter with Canola Oil",
+                "Dijon mustard",
+                "green apple thinly sliced",
+                " cheddar cheese",
+                " deli roasted turkey"
+            ],
+            "description": "A chicken salad sandwich with a cranberry-walnut taste"
+        },
+        {
+        "Name": "Tuna Melt",
+        "Ingridients": [
+        "clised tomatoes",
+        "cheddar cheese",
+        "wheat bread or rye",
+        "white flake tune ina water(drained)",
+        "celery",
+        "sliced onions",
+        "mayonnaise",
+        "dijon",
+        "lemon juice",
+        "pepper"
+        ],
+         "description": "A classic tuna sandwhich"
+
+    },
+    {
+        "Name": "Grilled Chicken & Avocado Panini",
+        "Ingridients": [
+            "gluten-free bread",
+            "mashed avocado",
+            "sliced tomatoes",
+            "vegan cheese or cheese of choice",
+            "grilled chicken breast",
+            "salt and pepper"
+        ],
+        "desciption": "grilled chicken cooked to perfection rested on a bed of avocado dressing and covered with cheese"
+    },
+
+   {
+    "Name": "Breakfast Pannini",
+    "Ingridients": [
+        "eggs",
+        "salt",
+        "black pepper",
+        "bacon",
+        "whole wheat or whole grain bread",
+        "butter",
+        "cheese"
+    ],
+    "desciption": "flatten egg and cheese pannini, add bacon for a crunchier taste"
+},
+        {
+            "Name": "Brie Grilled Cheese",
+            "Ingridients": [
+                "ciabatta bread",
+                "smoked turkey",
+                "basil ",
+                "red pepper jelly",
+                "jalapenos",
+                "american cheese"
+            ],
+            "desciption": "Simple but tasty grilled cheese pannini"
+        }
+
+],
+
+
+
+
+    "Desserts": [
+        {
+            "Name": "Vanilla Bean & Waffle Ice Cream",
+            "Ingridients": [
+                "waffle cone",
+                "ice cream of your choice",
+                "maple syrup"
+            ],
+            "description": "A waffle cone with Vanilla Bean Ice Cream or your choice of flavor"
+        },
+        {
+            "Name": "Keto Pound Cake",
+            "Ingridients": [
+                "butter",
+                "cream cheese",
+                "eggs",
+                "baking powder",
+                "salt"
+            ],
+            "description": "Pound cake with a nice creamy covered glaze"
+        },
+        {
+            "Name": "Peanut butter oatmeal cookie sandwhich with chocolate ganache",
+            "Ingridients": [
+                "butter",
+                "creamy peanut butter",
+                "sugar",
+                "large eggs",
+                "vanilla extract",
+                "salt",
+                "baking powder",
+                "cinnamon"
+            ],
+            "description": "Puffy oatmeal with a penaut butter cookies"
+        },
+{
+            "Name": "Nutella stuffed french toast with strawberries",
+            "Ingridients": [
+                "french bread",
+                "milk",
+                "eggs",
+                "sugar",
+                "nutella",
+                "powdered sugar",
+                "strawberries"
+            ],
+            "description": "French toast with creamy nutella topped with strawberries"
+},
+{
+    "Name": "CheeseCake",
+    "Ingridients": [
+        "cracker crumbs",
+        "butter",
+        "sugar",
+        "salt",
+        "cream-cheese",
+        "flour",
+        "vanilla",
+        "lemon-juice",
+        "sour-cream"
+    ],
+    "description": "New York Style CheesCake with whip cream"
+}
+    ],
+
+
+
+    "Drinks": [
+    {
+            "Name": "Hot Coffee",
+            "Ingridients": [
+                "water",
+                "grined columbian coffee beans"
+            ],
+            "Description": "Classic Columbian Hot Coffee"
+    
+    },
+        {
+            "Name": "Hot Tea",
+            "Ingridients": [
+                "water",
+                "your choice of tea"
+            ],
+            "Description": "Hot Tea"
+        },
+        {
+            "Name": "Hot Chocolate",
+            "Ingridients": [
+                "water",
+                "steamed milk",
+                "white or dark chocoloate"
+            ],
+            "Description": "Classic Hot Chocolate"
+        },
+        {
+            "Name": "Cookie Sandwich Cocktail",
+            "Ingridients": [
+                "Vanilla Vodka",
+                "Vanilla icre-cream cookies",
+                "ice",
+                "pineapple juice",
+                "lime",
+                "whipped cream"
+            ],
+            "Description": "Cocktail to accomopany a nice appetizer with great friends"
+        },
+        {
+            "Name": "Fountain Drinks",
+            "Ingridients": [
+                "Pepsi",
+                "Sunkist",
+                "Dr. Pepper",
+                "Sprite"
+            ],
+            "Description": "Soft Drinks"
+        }
+
+    ]
+}
