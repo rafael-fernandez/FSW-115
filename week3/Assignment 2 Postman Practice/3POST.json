@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "3fe9a812-489f-44db-a193-3d0beae7a473",
+        "name": null,
+        "description": "Master coding",
+        "price": 1000,
+        "isComplete": null,
+        "user": "RafaelFernandez",
+        "createdAt": "2021-12-11T06:43:15.000Z",
+        "updatedAt": "2021-12-11T06:43:15.000Z"
+    },
+    {
+        "_id": "63e53e0e-ef43-4c4e-a90b-246190448ada",
+        "name": null,
+        "description": "Learn to code",
+        "price": 100,
+        "isComplete": null,
+        "user": "RafaelFernandez",
+        "createdAt": "2021-12-11T06:42:51.000Z",
+        "updatedAt": "2021-12-11T06:42:51.000Z"
+    },
+    {
+        "_id": "840ce0ce-376a-4aba-b994-1718120fe238",
+        "name": null,
+        "description": "Make money coding",
+        "price": 100000,
+        "isComplete": null,
+        "user": "RafaelFernandez",
+        "createdAt": "2021-12-11T06:43:39.000Z",
+        "updatedAt": "2021-12-11T06:43:39.000Z"
+    }
+]
