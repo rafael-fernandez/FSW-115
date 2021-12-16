@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+
+li
+{
+    text-align: center;
+    font-size: 24px;
+    color: red;
+   
+}
+
+#signature
+{
+   text-align: center;
+   color: blue;
+   font-weight: bold;
+   font-size: 18px;
+}
