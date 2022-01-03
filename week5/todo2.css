@@ -1,0 +1,44 @@
+body{
+  background-color: navy;  
+}
+
+input{
+     border: 1px solid blue;
+    outline: none;
+    font-size: 20px;
+    vertical-align: middle;
+    text-align: center;
+ margin-left: 50px;
+ border-radius: 5px;
+
+}
+
+
+.form1{
+    border: solid blue;
+    background-color: yellow;
+}
+
+#infoTitle{
+    border: solid blue; 
+}
+
+button{
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: greenyellow;
+}
+
+form{
+    color: yellow;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+#signature
+{
+   text-align: center;
+   color: yellow;
+   font-weight: bold;
+   font-size: 24px;
+}
